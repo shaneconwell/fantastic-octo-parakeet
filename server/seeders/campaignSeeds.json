@@ -1,0 +1,52 @@
+[
+  {
+    "campaignTitle": "Get stunned by the Great Pyramid of Giza",
+    "campaignDescription": "Built over 5000 years ago, it’s the oldest and the biggest of the pyramids. It is a marvel of human engineering and construction, and a defining symbol of the Egyptian world.",
+    "campaignAuthor": "Brian Kernighan"
+  },
+  {
+    "campaignTitle": "Walk along the Great Wall of China",
+    "campaignDescription": "The Great Wall of China is a good reason for the existence of the Bucket List! It’s an astonishing relic of China’s history, and it’s a must for many travelers and tourists around the world",
+    "campaignAuthor": "Max Kanat-Alexander"
+  },
+  {
+    "campaignTitle": "Explore Petra",
+    "campaignDescription": "Jordan’s rose-colored sandstone city is an extraordinary experience.",
+    "campaignAuthor": "Bob Bobberson"
+  },
+  {
+    "campaignTitle": "Visit the Colosseum",
+    "campaignDescription": "Recognized as one of the Seven Wonders of the World, Rome’s great gladiatorial arena is the most exciting of the city’s ancient sights. ",
+    "campaignAuthor": "Kent Beck"
+  },
+  {
+    "campaignTitle": "Walk to Chichen Itza",
+    "campaignDescription": "Located in the Yutacan state of Mexico, Chichen Itza is the best place to visit in the world if you are interested in an ancient Mayan city ",
+    "campaignAuthor": "Edward V. Berard"
+  },
+  {
+    "campaignTitle": "Trek to Machu Picchu",
+    "campaignDescription": " Located in the Yutacan state of Mexico, Chichen Itza is the best ",
+    "campaignAuthor": "Alan Kay"
+  },
+  {
+    "campaignTitle": "Discover the Taj Mahal",
+    "campaignDescription": "The most important property of a program is whether it accomplishes the intention of its user.  ",
+    "campaignAuthor": "C.A.R. Hoare"
+  },
+  {
+    "campaignTitle": "Hike to Christ the Redeemer",
+    "campaignDescription": "Delivering good software today is often better than perfect software tomorrow, so finish things and ship.",
+    "campaignAuthor": "David Thomas"
+  },
+  {
+    "campaignTitle": "Be intrigued by Stonehenge",
+    "campaignDescription": "If you optimize everything, you will always be unhappy.",
+    "campaignAuthor": "Donald Knuth"
+  },
+  {
+    "campaignTitle": "Discover the Amazon Rainforest and River",
+    "campaignDescription": "Also named “lungs of the world”, the Amazon rainforest produces an important share of the oxygen for the entire planet and is made up of a mosaic of eco-system and vegetation types.",
+    "campaignAuthor": "Lernantino"
+  }
+]
